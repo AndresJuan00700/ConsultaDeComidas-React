@@ -2,6 +2,7 @@
   "name": "buscador-de-bebidas",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://AndresJuan00700.github.io/ConsultaDeComidas-React",
   "type": "module",
   "scripts": {
     "dev": "vite",
